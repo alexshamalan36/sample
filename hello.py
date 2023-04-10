@@ -1,4 +1,4 @@
 print("hello world!!!");
-a = 20;
-b= 30;
+a = 99;
+b= 33;
 print("sum of a+b is ", a+b );
